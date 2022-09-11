@@ -25,7 +25,7 @@ function App() {
       {/* <!-- Collect the nav links, forms, and other content for toggling --> */}
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right navbar__navigation">
-          <li><a href="#">Iniciar sesión</a></li>
+          <li><a href="https://login-vexta.herokuapp.com/">Iniciar sesión</a></li>
           <li><a href="#">Características</a></li>
           <li><a href="#">Contacto</a></li>
         </ul>
